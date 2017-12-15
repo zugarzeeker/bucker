@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "~0.6.0",
-    "mkdirp": "~0.3.5",
+    "mkdirp": "~0.5.1",
     "moment": "~2.1.0",
     "nodemailer": "~0.5.2",
     "redis": "^0.12.1"
